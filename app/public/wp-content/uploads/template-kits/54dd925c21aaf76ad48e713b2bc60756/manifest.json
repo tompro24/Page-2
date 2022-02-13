@@ -1,0 +1,888 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Coffee Shop",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5-cfd9474af06720e4de2ca21e6d95f821.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6.jpg",
+            "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blends",
+            "screenshot": "screenshots\/blends.jpg",
+            "source": "templates\/blends-b50945a2c2cb2ef8295069c11240542a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blend Detail",
+            "screenshot": "screenshots\/blend-detail.jpg",
+            "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu",
+            "screenshot": "screenshots\/menu.jpg",
+            "source": "templates\/menu-0410e49ce686570f19477d3775f1569a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-7661f6453baaf7f05613b641742895b7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 3",
+            "screenshot": "screenshots\/about-3.jpg",
+            "source": "templates\/about-3-eada264f906ef39592b0582ac0129ded.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-bac5790fcfec7e844207ce958e0f5d99.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-2e94c0a5f1ea9624de4105d32becf952.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 3",
+            "screenshot": "screenshots\/contact-3.jpg",
+            "source": "templates\/contact-3-9a1945d29dbd57ff957da8374585d54b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 4",
+            "screenshot": "screenshots\/contact-4.jpg",
+            "source": "templates\/contact-4-8fede16b9b1cab7f57267d0de1e499b8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-7f20b32a20c23f001126acd5993b5ad1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2",
+            "screenshot": "screenshots\/coming-soon-2.jpg",
+            "source": "templates\/coming-soon-2-07317ef7cb3bf14a499e77bbbde0d8fe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-9555a2926762d9ee34518b7ddd5ebb79.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "photo-1522120331923-bd99e51eb26e-e1597402113279.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1522120331923-bd99e51eb26e-e1597402113279.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/faq-7661f6453baaf7f05613b641742895b7.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/contact-bac5790fcfec7e844207ce958e0f5d99.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/contact-2-2e94c0a5f1ea9624de4105d32becf952.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/contact-3-9a1945d29dbd57ff957da8374585d54b.json",
+                    "name": "Contact 3"
+                },
+                {
+                    "source": "templates\/coming-soon-2-07317ef7cb3bf14a499e77bbbde0d8fe.json",
+                    "name": "Coming Soon 2"
+                }
+            ],
+            "filesize": 397091,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-1512568400610-62da28bc8a13-e1597402001335.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1512568400610-62da28bc8a13-e1597402001335.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 523055,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-1517705600644-3f392e2d6439-e1597402161725.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1517705600644-3f392e2d6439-e1597402161725.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 566020,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-1512585417780-99d60b78b074-e1597401789152.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1512585417780-99d60b78b074-e1597401789152.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 144195,
+            "dimensions": [
+                1000,
+                1500
+            ]
+        },
+        {
+            "filename": "photo-1529892485617-25f63cd7b1e9-e1597402102286.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1529892485617-25f63cd7b1e9-e1597402102286.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 269492,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-14267949576168-6ce8e2df4e13-e1597402078793.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-14267949576168-6ce8e2df4e13-e1597402078793.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 73759,
+            "dimensions": [
+                1400,
+                1175
+            ]
+        },
+        {
+            "filename": "photo-1517705770913-e28886bac93a-e1597402138354.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1517705770913-e28886bac93a-e1597402138354.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 353428,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-1495474472287-4d71bcdd2085-e1597402149904.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1495474472287-4d71bcdd2085-e1597402149904.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 170995,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "photo-1494346480775-936a9f0d0877-e1597402173521.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1494346480775-936a9f0d0877-e1597402173521.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/contact-bac5790fcfec7e844207ce958e0f5d99.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 349512,
+            "dimensions": [
+                1600,
+                1138
+            ]
+        },
+        {
+            "filename": "photo-1525648199074-cee30ba79a4a-e1597402184963.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1525648199074-cee30ba79a4a-e1597402184963.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-391b1ba7f4d6a7a636bb67b192362e32.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-cfd9474af06720e4de2ca21e6d95f821.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 371806,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        },
+        {
+            "filename": "photo-1524735133215-2784116282ec-e1597401687873.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1524735133215-2784116282ec-e1597401687873.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-cfd9474af06720e4de2ca21e6d95f821.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/blends-b50945a2c2cb2ef8295069c11240542a.json",
+                    "name": "Blends"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 474468,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-1515823662972-da6a2e4d3002-e1597402028990.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1515823662972-da6a2e4d3002-e1597402028990.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 499636,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-1522273777983-a0d924529b83-e1597402066142.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1522273777983-a0d924529b83-e1597402066142.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-cfd9474af06720e4de2ca21e6d95f821.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 421904,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-1497636577773-f1231844b336-1-e1597402015114.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1497636577773-f1231844b336-1-e1597402015114.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/popup-9555a2926762d9ee34518b7ddd5ebb79.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 329729,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-1524671545465-3eadeda481e0-e1597402090278.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1524671545465-3eadeda481e0-e1597402090278.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-b6cbbb75ddadf1e3a57c6d931a334a07.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/blend-detail-439952b5c2eb37c23b9396f8f9bd2d3f.json",
+                    "name": "Blend Detail"
+                },
+                {
+                    "source": "templates\/about-3a8ef596f22c3eb6900077ee8daebfa8.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-2-fd320f7aced67a6d95ff230547d5ebce.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 169416,
+            "dimensions": [
+                1400,
+                2100
+            ]
+        },
+        {
+            "filename": "photo-1524350876685-274059332603-e1597401699862.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1524350876685-274059332603-e1597401699862.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-cfd9474af06720e4de2ca21e6d95f821.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-63e2f7c1831e0f927b01f0728be33056.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/blends-b50945a2c2cb2ef8295069c11240542a.json",
+                    "name": "Blends"
+                },
+                {
+                    "source": "templates\/menu-0410e49ce686570f19477d3775f1569a.json",
+                    "name": "Menu"
+                },
+                {
+                    "source": "templates\/contact-3-9a1945d29dbd57ff957da8374585d54b.json",
+                    "name": "Contact 3"
+                },
+                {
+                    "source": "templates\/contact-4-8fede16b9b1cab7f57267d0de1e499b8.json",
+                    "name": "Contact 4"
+                }
+            ],
+            "filesize": 273807,
+            "dimensions": [
+                1920,
+                1279
+            ]
+        },
+        {
+            "filename": "nathan-dumlao-487461-unsplash-e1620832870627.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/nathan-dumlao-487461-unsplash-e1620832870627.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3-941e174abeaefde6ebe6b27a392b418a.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 764391,
+            "dimensions": [
+                800,
+                782
+            ]
+        },
+        {
+            "filename": "photo-1496198183329-402041b2487b-e1597401807806.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1496198183329-402041b2487b-e1597401807806.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-90783eee77259b40c02d39e652d7292c.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 373751,
+            "dimensions": [
+                1600,
+                1552
+            ]
+        },
+        {
+            "filename": "photo-1514933651103-005eec06c04b.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1514933651103-005eec06c04b.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/about-3-eada264f906ef39592b0582ac0129ded.json",
+                    "name": "About 3"
+                }
+            ],
+            "filesize": 707433,
+            "dimensions": [
+                1867,
+                1400
+            ]
+        },
+        {
+            "filename": "11209-preview-0FF2-e1597402206375.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/11209-preview-0FF2-e1597402206375.png",
+            "templates": [
+                {
+                    "source": "templates\/about-3-eada264f906ef39592b0582ac0129ded.json",
+                    "name": "About 3"
+                }
+            ],
+            "filesize": 225166,
+            "dimensions": [
+                460,
+                499
+            ]
+        },
+        {
+            "filename": "photo-15051550892987-424388901632-e1597401631536.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-15051550892987-424388901632-e1597401631536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 467347,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-150515089292287-424388901632-e1597401645949.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-150515089292287-424388901632-e1597401645949.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 256598,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-150515150892987-424388901632-e1597401612125.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-150515150892987-424388901632-e1597401612125.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43902,
+            "dimensions": [
+                600,
+                900
+            ]
+        },
+        {
+            "filename": "photo-1486074051793-e41332bf18fc-e1597401660297.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1486074051793-e41332bf18fc-e1597401660297.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/team-23f3712d2cc0402b9f1e3386d75c4565.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 98026,
+            "dimensions": [
+                1600,
+                2400
+            ]
+        },
+        {
+            "filename": "photo-1515164783716-8e6920f3e77c-e1597401571902.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/wp-content\/uploads\/sites\/53\/2018\/07\/photo-1515164783716-8e6920f3e77c-e1597401571902.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon-7f20b32a20c23f001126acd5993b5ad1.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 351095,
+            "dimensions": [
+                1600,
+                1067
+            ]
+        }
+    ]
+}
